@@ -1,0 +1,14 @@
+/home/md/Documents/coding/backend/tp's/ATM/bin/Debug/net8.0/ATM
+/home/md/Documents/coding/backend/tp's/ATM/bin/Debug/net8.0/ATM.deps.json
+/home/md/Documents/coding/backend/tp's/ATM/bin/Debug/net8.0/ATM.runtimeconfig.json
+/home/md/Documents/coding/backend/tp's/ATM/bin/Debug/net8.0/ATM.dll
+/home/md/Documents/coding/backend/tp's/ATM/bin/Debug/net8.0/ATM.pdb
+/home/md/Documents/coding/backend/tp's/ATM/obj/Debug/net8.0/ATM.GeneratedMSBuildEditorConfig.editorconfig
+/home/md/Documents/coding/backend/tp's/ATM/obj/Debug/net8.0/ATM.AssemblyInfoInputs.cache
+/home/md/Documents/coding/backend/tp's/ATM/obj/Debug/net8.0/ATM.AssemblyInfo.cs
+/home/md/Documents/coding/backend/tp's/ATM/obj/Debug/net8.0/ATM.csproj.CoreCompileInputs.cache
+/home/md/Documents/coding/backend/tp's/ATM/obj/Debug/net8.0/ATM.dll
+/home/md/Documents/coding/backend/tp's/ATM/obj/Debug/net8.0/refint/ATM.dll
+/home/md/Documents/coding/backend/tp's/ATM/obj/Debug/net8.0/ATM.pdb
+/home/md/Documents/coding/backend/tp's/ATM/obj/Debug/net8.0/ATM.genruntimeconfig.cache
+/home/md/Documents/coding/backend/tp's/ATM/obj/Debug/net8.0/ref/ATM.dll
