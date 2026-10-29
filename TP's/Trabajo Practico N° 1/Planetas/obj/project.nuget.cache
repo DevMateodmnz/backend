@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1zIzJcen2YA=",
+  "success": true,
+  "projectFilePath": "/home/md/Documents/coding/backend/TP's/Trabajo Practico N° 1/Planetas/Planetas.csproj",
+  "expectedPackageFiles": [
+    "/home/md/.nuget/packages/microsoft.netcore.app.ref/8.0.32/microsoft.netcore.app.ref.8.0.32.nupkg.sha512",
+    "/home/md/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.32/microsoft.aspnetcore.app.ref.8.0.32.nupkg.sha512",
+    "/home/md/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.32/microsoft.netcore.app.host.linux-x64.8.0.32.nupkg.sha512"
+  ],
+  "logs": []
+}
